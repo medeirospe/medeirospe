@@ -1,5 +1,5 @@
 
-# Pedro Medeiros! 👋
+# Pedro Medeiros! 
 
 **Desenvolvedor de Software em formação** | São Paulo, Brasil
 
