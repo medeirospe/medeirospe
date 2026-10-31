@@ -1,7 +1,7 @@
 
-# Olá, eu sou Pedro Medeiros! 👋
+# Pedro Medeiros! 👋
 
-**Desenvolvedor de Software em formação** | São Paulo, Brasil 🇧🇷
+**Desenvolvedor de Software em formação** | São Paulo, Brasil
 
 ## 👨‍💻 Sobre mim
 
